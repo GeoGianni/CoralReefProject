@@ -268,9 +268,9 @@ MonoBehaviour:
   rescale: 0
   otherFish: []
   speciesID: 4
-  maxSpeed: 7
+  maxSpeed: 5
   Range: 10
-  rotSpeed: 8
+  rotSpeed: 4
   minHeight: 12
   maxHeight: 25
 --- !u!114 &8225685770694393789
@@ -289,7 +289,7 @@ MonoBehaviour:
   lowerBodyObj: {fileID: 400913225846736840}
   headObj: {fileID: 1794294279841820555}
   maxHeadAngle: 15
-  speed: 1
+  speed: 2
 --- !u!65 &7737577695933470950
 BoxCollider:
   m_ObjectHideFlags: 0

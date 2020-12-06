@@ -69,9 +69,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rescale: 0
   moveTime: 0.05
-  Speed: 8
+  Speed: 5
   Range: 10
-  rotSpeed: 5
+  rotSpeed: 0.5
   minHeight: 20
   maxHeight: 35
 --- !u!65 &-1930621581974459346

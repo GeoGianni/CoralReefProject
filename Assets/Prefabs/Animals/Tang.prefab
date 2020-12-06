@@ -190,7 +190,7 @@ MonoBehaviour:
   speciesID: 3
   maxSpeed: 4
   Range: 10
-  rotSpeed: 10
+  rotSpeed: 5
   minHeight: 18
   maxHeight: 25
 --- !u!65 &3869751816795977061
